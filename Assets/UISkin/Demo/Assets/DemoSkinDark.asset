@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b27e821df6bcb34bb692deb23785e94, type: 3}
+  m_Name: DemoSkinDark
+  m_EditorClassIdentifier: 
+  modifiers:
+  - {fileID: 11400000, guid: c99b202b71a0aef4980d462fd96f1f57, type: 2}
+  - {fileID: 11400000, guid: d3497e02c191f454391469dd9cb50e12, type: 2}
+  - {fileID: 11400000, guid: c88eab27fbb41d34da048030bc2f033a, type: 2}
+  - {fileID: 11400000, guid: fafb4aab615ab414caf254c489043b3d, type: 2}
+  - {fileID: 11400000, guid: 75afff3ae9b01d84c929fecebf96c86d, type: 2}
+  - {fileID: 11400000, guid: 4f34126075e367e4cb2feb3ba35c73e8, type: 2}
+  - {fileID: 11400000, guid: 0b34eebf226591240a44d37770b1ce25, type: 2}
+  - {fileID: 11400000, guid: 06b8ba6e4ec963247964bf0243153bd7, type: 2}
+  - {fileID: 11400000, guid: 6cd553e3fd8b1da45984dfd6f6606192, type: 2}
+  - {fileID: 11400000, guid: 90d4f1d951ec5a7468c6772334917590, type: 2}
+  - {fileID: 11400000, guid: ed8528c8908de9141aa0c0a60207ba70, type: 2}
+  - {fileID: 11400000, guid: 111013822da256e47821bbaf04b76a46, type: 2}

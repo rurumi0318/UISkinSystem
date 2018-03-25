@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc2b7de63fef8a45aebc59be861134b, type: 3}
+  m_Name: SpeedManager
+  m_EditorClassIdentifier: 
+  currentSkin: {fileID: 11400000, guid: d292d75968f13d940b8dcdfe8d7d1c9e, type: 2}
